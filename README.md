@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hola mi nombres Franco Moreira 👋
+## Actualmente me encuentro estudiando desarrollo web! 
 
 <!--
 **francomoreira/francomoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
