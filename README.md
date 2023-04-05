@@ -8,9 +8,9 @@ Con experiencia en JavaScript, HTML, CSS, React, Git y Github y sobre todo siemp
 
 🔍 Actualmente buscando oportunidades de trabajo en el campo de la programación web, donde pueda aplicar mis habilidades y aprender de los profesionales en la industria.
 
-🌎 de Argentina y dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, contribuyendo al desarrollo tecnológico.
+Dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, contribuyendo al desarrollo tecnológico.
 
-## Cursos
+## 🎓 Cursos
 
 * [Curso Básico de JavaScript](https://platzi.com/p/Franmore_dev/curso/1814-basico-javascript/diploma/detalle/)
 * [Curso Básico de Python](https://platzi.com/p/Franmore_dev/curso/1937-python-basico/diploma/detalle/)
@@ -31,3 +31,13 @@ Con experiencia en JavaScript, HTML, CSS, React, Git y Github y sobre todo siemp
 * [Curso Práctico de Frontend Developer](https://platzi.com/p/Franmore_dev/curso/2477-frontend-developer-practico/diploma/detalle/)
 * [Curso Práctico de JavaScript](https://platzi.com/p/Franmore_dev/curso/3271-javascript-practico/diploma/detalle/)
 
+## 🚧 Proyectos Dev's
+
+* [Menu sticky](https://francomoreira.github.io/projects/sticky-menu-fixed/#camisetas)
+* [Button random color](https://francomoreira.github.io/projects/random-color/)
+* [Delay music calculator](https://calculate-delay-time.netlify.app/)
+* [Youtube thumbnails downloader](https://francomoreira.github.io/projects/Descarga-miniaturas-youtube/)
+* [App palindrome checker](https://francomoreira.github.io/projects/Palindrome-Checker/)
+* [Switch Light/Dark](https://codepen.io/francomoreira/pen/QWmdvoE)
+* [API Rest - Random cats](https://francomoreira.github.io/projects/API-rest-Random-Cat/)
+* [You weight](https://francomoreira-35731.netlify.app/)
