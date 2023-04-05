@@ -35,6 +35,7 @@ Dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, con
 
 * [Menu sticky](https://francomoreira.github.io/projects/sticky-menu-fixed/#camisetas)
 * [Button random color](https://francomoreira.github.io/projects/random-color/)
+* [Calculadora cupones descuentos](https://codepen.io/francomoreira/pen/RwYWqWN)
 * [Delay music calculator](https://calculate-delay-time.netlify.app/)
 * [Youtube thumbnails downloader](https://francomoreira.github.io/projects/Descarga-miniaturas-youtube/)
 * [App palindrome checker](https://francomoreira.github.io/projects/Palindrome-Checker/)
