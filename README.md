@@ -43,5 +43,3 @@ Dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, con
 * [API Rest - Random cats](https://francomoreira.github.io/projects/API-rest-Random-Cat/)
 * [You weight](https://francomoreira-35731.netlify.app/)
 * [Cupones de descuentos](https://codepen.io/francomoreira/pen/RwYWqWN)
-
-![Texto alternativo de la imagen](url de la imagen)
