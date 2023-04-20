@@ -33,13 +33,12 @@ Dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, con
 
 ## 🚧 Proyectos Dev's
 
-* [Menu sticky](https://francomoreira.github.io/projects/sticky-menu-fixed/#camisetas)
-* [Button random color](https://francomoreira.github.io/projects/random-color/)
-* [Calculadora cupones descuentos](https://codepen.io/francomoreira/pen/RwYWqWN)
-* [Delay music calculator](https://calculate-delay-time.netlify.app/)
-* [Youtube thumbnails downloader](https://francomoreira.github.io/projects/Descarga-miniaturas-youtube/)
-* [App palindrome checker](https://francomoreira.github.io/projects/Palindrome-Checker/)
-* [Switch Light/Dark](https://codepen.io/francomoreira/pen/QWmdvoE)
-* [API Rest - Random cats](https://francomoreira.github.io/projects/API-rest-Random-Cat/)
-* [You weight](https://francomoreira-35731.netlify.app/)
-* [Cupones de descuentos](https://codepen.io/francomoreira/pen/RwYWqWN)
+| Proyectos  | Code | Live  |
+| -----------|------| ------|
+| Menu Sticky                   | [Ver](https://github.com/francomoreira/sticky-menu-fixed)                                                      | [Visitar](https://franmore.ar/projects/sticky-menu-fixed/index.html)    |
+| Random color                  | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/random-color)                | [Visitar](https://franmore.ar/projects/random-color/)                   |
+| Calc Bonos descuentos         | [Ver](https://codepen.io/francomoreira/pen/RwYWqWN)                                                            | [Visitar](https://codepen.io/francomoreira/pen/RwYWqWN)                 |
+| Youtube Thumbnails downloader | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/Descarga-miniaturas-youtube) | [Visitar](https://franmore.ar/projects/descarga-miniaturas-youtube/)    |
+| Palindrome checker            | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/Palindrome-Checker)          | [Visitar](https://francomoreira.github.io/projects/Palindrome-Checker/) |
+| Switch Mode Light/Dark        | [Ver](https://codepen.io/francomoreira/pen/QWmdvoE)                                                            | [Visitar](https://codepen.io/francomoreira/pen/QWmdvoE)                 |
+| API Fetch - Random cats       | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/API-rest-Random-Cat)         | [Visitar](https://franmore.ar/projects/api-rest-random-cat/)            |
