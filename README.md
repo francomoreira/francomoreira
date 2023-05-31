@@ -45,3 +45,4 @@ Dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, con
 | 6 | Switch Mode Light/Dark        | [Ver](https://codepen.io/francomoreira/pen/QWmdvoE)                                                            | [Visitar](https://codepen.io/francomoreira/pen/QWmdvoE)                 |
 | 7 | API Fetch - Random cats       | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/API-rest-Random-Cat)         | [Visitar](https://franmore.ar/projects/api-rest-random-cat/)            |
 | 8 | Cards | [Ver](https://teeny-berry.surge.sh/)         | [Visitar](https://teeny-berry.surge.sh/)            |
+| 9 | Cards2 API de FakeStore| [ver](https://hallowed-toys.surge.sh/) | [Visitar](https://github.com/francomoreira/cards-2) |
