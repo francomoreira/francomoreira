@@ -19,7 +19,7 @@ Dispuesto a trabajar en cualquier parte del mundo para perseguir mi pasión, con
 | 1 | Menu Sticky | [Ver](https://github.com/francomoreira/sticky-menu-fixed)                                                      | [Visitar](https://franmore.ar/projects/sticky-menu-fixed/index.html)    |
 | 2 | Random color | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/random-color)                | [Visitar](https://franmore.ar/projects/random-color/)                   |
 | 3 | Calc Bonos descuentos | [Ver](https://codepen.io/francomoreira/pen/RwYWqWN) | [Visitar](https://codepen.io/francomoreira/pen/RwYWqWN) |
-| 4 | Youtube Thumbnails downloader | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/Descarga-miniaturas-youtube) | [Visitar](https://franmore.ar/projects/descarga-miniaturas-youtube/)    |
+| 4 | YT Thumbs Downloader | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/Descarga-miniaturas-youtube) | [Visitar](https://franmore.ar/projects/descarga-miniaturas-youtube/)    |
 | 5 | Palindrome checker | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/Palindrome-Checker)          | [Visitar](https://francomoreira.github.io/projects/Palindrome-Checker/) |
 | 6 | Switch Mode Light/Dark | [Ver](https://codepen.io/francomoreira/pen/QWmdvoE) | [Visitar](https://codepen.io/francomoreira/pen/QWmdvoE) |
 | 7 | API Fetch - Random cats | [Ver](https://github.com/francomoreira/francomoreira.github.io/tree/main/projects/API-rest-Random-Cat) | [Visitar](https://franmore.ar/projects/api-rest-random-cat/) |
