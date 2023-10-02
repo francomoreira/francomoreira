@@ -1,4 +1,4 @@
-# Hola mi nombre Franco Moreira 👋
+# Hola como estas? Mi nombre Franco Moreira 👋
 
 ## 💻 Soy un desarrollador web en formación y entusiasta de la tecnología
 
