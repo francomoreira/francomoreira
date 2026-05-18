@@ -27,7 +27,8 @@ La tecnología y la IA no son solo para startups millonarias ni campos inteligen
 | Proyecto | Qué es? |
 | -------- | ------ |
 | [francomoreira.github.io](https://github.com/francomoreira/francomoreira.github.io) | En este repo almacenaré mis proyectos de programación, incluyendo mini apps, ... |
-| [verificador-sha](https://github.com/francomoreira/verificador-sha) | Herramienta liviana para comprobar si el hash SHA de un archivo matchea. Supe... |
+| [CeSJ](https://github.com/francomoreira/CeSJ) | Sin descripción |
+| [verificador-sha](https://github.com/francomoreira/verificador-sha) | Herramienta liviana para comprobar si el hash SHA de un archivo matchea. |
 | [notebooklm-folders-extension](https://github.com/francomoreira/notebooklm-folders-extension) | 📁 Extensión para organizar fuentes de NotebookLM en carpetas virtuales |
 | [cards-2](https://github.com/francomoreira/cards-2) | cards con fetch a la api gratuita de platzi. |
 | [sticky-menu-fixed](https://github.com/francomoreira/sticky-menu-fixed) | Simple menu - con boton sticky que sigueel scroll del usuario, dando un facil... |
